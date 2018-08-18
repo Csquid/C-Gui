@@ -1,0 +1,10 @@
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\bin\Debug\01-02-Chart.exe.config
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\bin\Debug\01-02-Chart.exe
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\bin\Debug\01-02-Chart.pdb
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\01-02-Chart.csprojAssemblyReference.cache
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\_01_02_Chart.Properties.Resources.resources
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\01-02-Chart.csproj.GenerateResource.cache
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\01-02-Chart.csproj.CoreCompileInputs.cache
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\01-02-Chart.exe
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\01-02-Chart.pdb
+C:\Users\lake0019\source\repos\01-02-Chart\01-02-Chart\obj\Debug\_01_02_Chart.School.resources
